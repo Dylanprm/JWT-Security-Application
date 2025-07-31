@@ -20,8 +20,7 @@ This project offers a ready-to-use backend with:
 - **PostgreSQL integration** for persistent storage
 - **Extensible architecture** for adding new features or adapting to other databases/providers
 
-<img width="1170" height="595" alt="JWT Authentication Flowchart" src="https://github.com/user-attachments/assets/cb3a72b8-0cca-4feb-bb1d-eecacdef4ba4" />
-
+<img width="1170" height="595" alt="JWT Authentication Flowchart" src="https://github.com/user-attachments/assets/1be15d06-042c-4aa7-93f8-cdf7a4fedc02" />
 
 ---
 
@@ -81,17 +80,17 @@ This project offers a ready-to-use backend with:
      - `controller/` — REST API endpoints
 ---
 1. **Signup:**
-<img width="1918" height="806" alt="JWT Signup" src="https://github.com/user-attachments/assets/9c5b1cc9-7968-40a6-bae1-b044110289bd" />
+<img width="1918" height="806" alt="JWT Signup" src="https://github.com/user-attachments/assets/17e4f374-2a2b-49a8-964a-0ec25462091c" />
 
 2. **Email Verification:**
-<img width="1523" height="513" alt="JWT Email Verification" src="https://github.com/user-attachments/assets/729dca6c-2940-423f-b3ec-99f2dbf6ea40" />
-<img width="1918" height="780" alt="JWT Verify" src="https://github.com/user-attachments/assets/0e31605e-a06d-4fe2-96a5-ac8c49c4e4f8" />
+<img width="1523" height="513" alt="JWT Email Verification" src="https://github.com/user-attachments/assets/38e31ce6-48c8-4b9c-bc5f-db3406a37c95" />
+<img width="1918" height="780" alt="JWT Verify" src="https://github.com/user-attachments/assets/3fed7579-cfae-4c61-8320-8b3891405d54" />
 
 3. **Login:**
-<img width="1918" height="776" alt="JWT Login" src="https://github.com/user-attachments/assets/21d6993c-8844-4c5c-8735-baca98b58ccf" />
+<img width="1918" height="776" alt="JWT Login" src="https://github.com/user-attachments/assets/d8f67270-a4b1-4bab-bce2-17dd6c531603" />
 
 4. **Find User:**
-<img width="1918" height="808" alt="JWT Get User" src="https://github.com/user-attachments/assets/c0202e9a-1310-409a-bae7-acaef2e0e863" />
+<img width="1918" height="808" alt="JWT Get User" src="https://github.com/user-attachments/assets/3db1585d-a732-41f5-97fb-84bd9172601a" />
 
 ---
 ## How to improve on this project more!
